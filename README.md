@@ -1,1 +1,1 @@
-# Real-time-chat
+Real Time Chat Application using Appwrite
